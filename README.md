@@ -17,12 +17,12 @@ This paper has been presented as a Poster presentation in 26th International Con
 
 <table border="0">
  <tr>
-    <td align="center"><h3>4 Class Results</h3></td>
-    <td align="center"><h3>3 Class Results</h3></td>
+    <td align="center" padding="0"><h3>4 Class Results</h3></td>
+    <td align="center" padding="0"><h3>3 Class Results</h3></td>
  </tr>
  <tr>
-    <td><img src="https://user-images.githubusercontent.com/21031150/194773039-0c9bb1ae-7013-4cc2-838c-a48c8f5e2be8.PNG" width="500" height="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/21031150/194773047-396cbac5-fd6a-4caf-a230-8d5a5761bf7d.PNG" width="500" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/21031150/194774790-e95ea58a-8952-4dc2-9a32-d3431bc4dabf.PNG"></td>
+    <td><img src="https://user-images.githubusercontent.com/21031150/194774868-18ce880a-b499-4a63-9912-0fb06767ac3a.PNG"></td>
  </tr>
 </table>
 
