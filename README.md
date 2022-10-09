@@ -12,13 +12,13 @@ This paper has been presented as a Poster presentation in 26th International Con
 > We have choosen a challengable CXR dataset consisting of 4 classes namely COVID, Normal, Lung Opacity and Viral Pneumonia. 
 > The real problem in this dataset is not only the class imbalance, but also huge intra class variance. Hence we come up with a new strategy my modifying bias weights in WCCE based on statistical properties of images in that class. 
 
-> ### Methodology
+### Methodology
 ![Methodology](https://user-images.githubusercontent.com/21031150/194772944-a0816d47-ff16-4f9f-92be-68a861fd1f5a.PNG)
 
-> ### Results (4 Class)
+### Results (4 Class)
 ![3](https://user-images.githubusercontent.com/21031150/194773039-0c9bb1ae-7013-4cc2-838c-a48c8f5e2be8.PNG)
 
-> ### Results (3 Class)
+### Results (3 Class)
 ![4](https://user-images.githubusercontent.com/21031150/194773047-396cbac5-fd6a-4caf-a230-8d5a5761bf7d.PNG)
 
 ## Abstract
