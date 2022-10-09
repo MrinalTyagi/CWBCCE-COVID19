@@ -15,11 +15,16 @@ This paper has been presented as a Poster presentation in 26th International Con
 ### Methodology
 ![Methodology](https://user-images.githubusercontent.com/21031150/194772944-a0816d47-ff16-4f9f-92be-68a861fd1f5a.PNG)
 
-### Results (4 Class)
-![3](https://user-images.githubusercontent.com/21031150/194773039-0c9bb1ae-7013-4cc2-838c-a48c8f5e2be8.PNG)
-
-### Results (3 Class)
-![4](https://user-images.githubusercontent.com/21031150/194773047-396cbac5-fd6a-4caf-a230-8d5a5761bf7d.PNG)
+<table border="0">
+ <tr>
+    <td align="center"><h3>4 Class Results</h3></td>
+    <td align="center"><h3>3 Class Results</h3></td>
+ </tr>
+ <tr>
+    <td><img src="https://user-images.githubusercontent.com/21031150/194773039-0c9bb1ae-7013-4cc2-838c-a48c8f5e2be8.PNG" width="500" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/21031150/194773047-396cbac5-fd6a-4caf-a230-8d5a5761bf7d.PNG" width="500" height="300"></td>
+ </tr>
+</table>
 
 ### Results GradCAM
 ![Paper GradCAM Representation](https://github.com/MrinalTyagi/CWBCCE-COVID19/blob/main/4%20class%20gradcam.png)
