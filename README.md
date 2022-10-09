@@ -9,7 +9,7 @@ Vibhuti Bansal
 This paper has been presented as a Poster presentation in 26th International Conference on Pattern Recognition. 
 
 > In this paper, we have worked in a new direction, that is, alleviating the class imbalance problem from CXR dataset by using novel loss function. 
-> We choose a challengable CXR dataset consisting of 4 classes namely COVID, Normal, Lung Opacity and Viral Pneumonia. 
+> We chose a challengable CXR dataset consisting of 4 classes namely COVID, Normal, Lung Opacity and Viral Pneumonia. 
 > The real problem in this dataset is not only the class imbalance, but also huge intra class variance. Hence we come up with a new strategy my modifying bias weights in WCCE based on statistical properties of images in that class. 
 
 ### Methodology
